@@ -6,9 +6,9 @@ permalink: /resume/
 
 ## Education
 
-**Wauwatosa West High School** | High School Diploma
+**Wauwatosa West High School** \| High School Diploma
 
-**University of Wisconsin-Madison** |  Bachelor of Business Administration
+**University of Wisconsin-Madison** &#124; Bachelor of Business Administration
 
 ## Jobs
 
