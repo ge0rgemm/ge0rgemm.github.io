@@ -6,7 +6,7 @@
 name: GE0RGE.net
 
 # Your site's title (e.g., Ben's Awesome Site, The GitHub Blog, etc.), used as part of the title tag like Home | Ben's Awesome Site.
-title: GE0RGE BL0G
+title: a simple blog of a more civilized age
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
@@ -41,7 +41,7 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: g3org3mm@gamil.com
+  email: g3org3mm@gmail.com
   facebook:
   github: 
   instagram: 
