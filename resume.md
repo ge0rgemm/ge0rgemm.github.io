@@ -8,38 +8,38 @@ permalink: /resume/
 
 **Wauwatosa West High School** \| High School Diploma
 
-**University of Wisconsin-Madison** &#124; Bachelor of Business Administration
+**University of Wisconsin-Madison** \| Bachelor of Business Administration
 
 ## Jobs
 
-**Babysitter** | Red Cross certified
+**Babysitter** \| Red Cross certified
 
-**Caddy** | Westmoor Country Club
+**Caddy** \| Westmoor Country Club
 
-**Utility Clerk > Stocker** | Sentry / Sendiks
+**Utility Clerk > Stocker** \| Sentry / Sendiks
 
-**Host > Server** | The Original Pancake House
+**Host > Server** \| The Original Pancake House
 
-**Janitor** | UW Housing
+**Janitor** \| UW Housing
 
-**Finance Director** | The Working Class Student Union
+**Finance Director** \| The Working Class Student Union
 
-**Marketing Intern** | Industrial Electric Wire and Cable
+**Marketing Intern** \| Industrial Electric Wire and Cable
 
-**Plant Worker > Accounting Intern** | Babcock Dairy Plant
+**Plant Worker > Accounting Intern** \| Babcock Dairy Plant
 
-**Finance Director** | SPILL
+**Finance Director** \| SPILL
 
-**Marketing Intern** | Wisconsin Economic Development Corporation
+**Marketing Intern** \| Wisconsin Economic Development Corporation
 
-**Front of House** | Batch Bakehouse
+**Front of House** \| Batch Bakehouse
 
-**Office Boss > Operations Manager** | BlueTree Network
+**Office Boss > Operations Manager** \| BlueTree Network
 
-**Apprentice** | Context Clothing
+**Apprentice** \| Context Clothing
 
-**Account Executive** | TWNSQR
+**Account Executive** \| TWNSQR
 
-**Customer Champion > Director of Marketing** | Redox
+**Customer Champion > Director of Marketing** \| Redox
 
-**Head of Marketing** | blockit
+**Head of Marketing** \| blockit
