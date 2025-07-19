@@ -1,15 +1,41 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Resume
+permalink: /resume/
 ---
 
-### Sample Portfolio
+Every job teaches you something about work, the world, and yourself.  
 
-These are screencaps from Chungking Express
+## Previous gigs
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
-![Chungking Express Screencap 2]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)
-![Chungking Express Screencap 3]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)
-![Chungking Express Screencap 4]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)
-![Chungking Express Screencap 5]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)
+**Babysitter** | Red Cross certified
+
+**Caddy** | Westmoor Country Club
+
+**Utility Clerk > Stocker** | Sentry / Sendiks
+
+**Host > Server** | The Original Pancake House
+
+**Janitor** | UW Housing
+
+**Finance Director** | The Working Class Student Union
+
+**Marketing Intern** | Industrial Electric Wire and Cable
+
+**Plant Worker > Accounting Intern** | Babcock Dairy Plant
+
+**Finance Director** | SPILL
+
+**Marketing Intern** | Wisconsin Economic Development Corporation
+
+**Front of House** | Batch Bakehouse
+
+**Office Boss > Operations Manager** | BlueTree Network
+
+**Apprentice** | Context Clothing
+
+**Account Executive** | TWNSQR
+
+**Customer Champion > Director of Marketing** | Redox
+
+**Head of Marketing** | blockit
