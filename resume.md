@@ -4,7 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
-## Previous gigs
+## Education
+
+**Wauwatosa West High School** | High School Diploma
+
+**University of Wisconsin-Madison** |  Bachelor of Business Administration
+
+## Jobs
 
 **Babysitter** | Red Cross certified
 
