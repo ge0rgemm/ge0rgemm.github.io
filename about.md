@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Son, brother, husband, dad. 
 
-### More Information
+Serial early stage employee.
 
-A place to include any other types of information that you'd like to include about yourself.
+A couple base hits. No home runs. 
+
+This is where I host some manic musings. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[g3org3mm@gmail.com](mailto:g3org3mm@gmail.com)
