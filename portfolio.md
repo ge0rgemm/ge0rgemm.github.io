@@ -4,8 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-Every job teaches you something about work, the world, and yourself.  
-
 ## Previous gigs
 
 **Babysitter** | Red Cross certified
