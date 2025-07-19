@@ -4,11 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
+---
 ## Education
 
 **Wauwatosa West High School** \| High School Diploma
 
 **University of Wisconsin-Madison** \| Bachelor of Business Administration
+
+---
 
 ## Jobs
 
