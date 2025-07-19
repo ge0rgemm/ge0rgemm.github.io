@@ -10,7 +10,9 @@ Serial early stage employee.
 
 A couple base hits. No home runs. 
 
-This is where I host some manic musings. 
+This is where I host some manic musings.
+
+---
 
 ### Contact me
 
