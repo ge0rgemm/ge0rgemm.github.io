@@ -15,6 +15,8 @@ permalink: /resume/
 
 ## Jobs
 
+**Realtor** \| Compass
+
 **Head of Marketing** \| Alluvium (fka Blockit)
 
 **Customer Champion > Director of Marketing** \| Redox
